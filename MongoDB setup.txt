@@ -10,19 +10,19 @@ https://cloud.mongodb.com/v2/606d0a0b219d215d888a9326#clusters
 
 Password Mongo DB: 
 
-Organization: 
+Organization: Proyecto Final
 
-Project Name: 
+Project Name: To-Do List
 
-Cluster name: 
+Cluster name: to-do
 
 --------------------------------------------------------------------------
 
-Database User: colossus
+Database User: rrojasj 
 
-Password: 1234Abcd
+Password: password123.
 
-Nombre de la base de datos: proMascotasDatabase
+Nombre de la base de datos: 
 
 ----------------------------------------------------------------------------
 
